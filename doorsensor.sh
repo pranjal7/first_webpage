@@ -1,0 +1,3 @@
+echo Checking Light sensor..... 
+echo Room is dark..
+echo Light switching ON!
